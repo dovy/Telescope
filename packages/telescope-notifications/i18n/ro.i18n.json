@@ -1,6 +1,8 @@
 {
-  "no_notifications": "Nici o notificare",
-  "1_notification": "1 Notificare",
-  "notifications": "Notificări",
-  "mark_all_as_read": "Marchează toate ca citite"
+  "no_notifications" : "Nici o notificare",
+  "1_notification" : "1 Notificare",
+  "notifications" : "Notificări",
+  "mark_all_as_read" : "Marchează toate ca citite",
+  "has_replied_to_your_comment_on" : " a răspuns la comentariul tău la",
+  "mark_as_read" : "Postări contra trend-ului"
 }

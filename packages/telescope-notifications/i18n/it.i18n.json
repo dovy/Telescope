@@ -1,6 +1,8 @@
 {
-  "no_notifications": "Nessuna notifica",
-  "1_notification": "1 notifica",
-  "notifications": "notifiche",
-  "mark_all_as_read": "Segna tutte come lette"
+  "no_notifications" : "Nessuna notifica",
+  "1_notification" : "1 notifica",
+  "notifications" : "notifiche",
+  "mark_all_as_read" : "Segna tutte come lette",
+  "has_replied_to_your_comment_on" : " ha risposto al tuo commento su",
+  "mark_as_read" : "Mark as read"
 }

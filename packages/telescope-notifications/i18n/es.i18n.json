@@ -1,6 +1,9 @@
 {
-  "no_notifications": "Ninguna notificación",
-  "1_notification": "1 notificación",
-  "notifications": "notificaciones",
-  "mark_all_as_read": "Marcar todas como leídas"
+  "no_notifications" : "Ninguna notificación",
+  "1_notification" : "1 notificación",
+  "notifications" : "notificaciones",
+  "mark_all_as_read" : "Marcar todas como leídas",
+  "left_a_new_comment_on" : "dejado un nuevo comentario sobre",
+  "has_replied_to_your_comment_on" : " ha respondido a su comentario sobre",
+  "mark_as_read" : "Marcar como leído"
 }

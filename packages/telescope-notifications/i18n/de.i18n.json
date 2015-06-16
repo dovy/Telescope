@@ -1,6 +1,8 @@
 {
-  "no_notifications": "Keine Benachrichtigungen",
-  "1_notification": "1 Benachrichtigung",
-  "notifications": "Benachrichtigungen",
-  "mark_all_as_read": "Alle als gelesen markieren"
+  "no_notifications" : "Keine Benachrichtigungen",
+  "1_notification" : "1 Benachrichtigung",
+  "notifications" : "Benachrichtigungen",
+  "mark_all_as_read" : "Alle als gelesen markieren",
+  "has_replied_to_your_comment_on" : " hat auf Deinen Kommentar geantwortet bei",
+  "mark_as_read" : "Mark as read"
 }

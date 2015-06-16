@@ -1,6 +1,4 @@
 {
-  "no_notifications": "Оповещений нет",
-  "1_notification": "1 оповещение",
-  "notifications": "оповещения",
-  "mark_all_as_read": "Отметить всё прочитанным",
+  "has_replied_to_your_comment_on" : " ответил(а) на ваш комментарий по",
+  "mark_as_read" : "Отметить прочитанным"
 }
